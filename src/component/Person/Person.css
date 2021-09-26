@@ -1,0 +1,13 @@
+.card{
+    margin-bottom: 25px;
+    background-color: honeydew;
+}
+.icon-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.icon-style h1{
+    margin-right: 10px;
+}

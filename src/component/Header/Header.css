@@ -1,0 +1,14 @@
+.header{
+    background-color: honeydew;
+    text-align: center;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.header h1{
+    color: green;
+}
+.header p{
+    font-size: 20px;
+    font-weight: 500;
+}
